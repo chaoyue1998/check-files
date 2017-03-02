@@ -1,0 +1,19 @@
+{
+    "name": "check-files",
+    "version": "0.2.6",
+    "description": "check files to cdn and replace url",
+    "main": "bin/check-files.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "check-files": "bin/check-files.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.14.1",
+        "optimist": "^0.6.1"
+    },
+    "preferGlobal": "true"
+}
