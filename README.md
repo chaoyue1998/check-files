@@ -24,5 +24,5 @@ $ check-files -f index.html -r /root
 | Option | Alias | Default | Description |
 | :------------------ | :-: | :--------: | :-------- |
 | --file              | -f  | index.html | 上传的文件名 |
-| --root              | -r  | 当前路径   | 静态文件的相对根路径 |
+| --path              | -p  | 当前路径   | 静态文件的相对根路径 |
 | --type              | -t  | 所有类型   | 静态文件的类型，可选值:js css img  |
